@@ -39,3 +39,5 @@ build/
 .DS_Store
 
 **servicekey.json
+/src/main/resources/rbjrg-app-firebase-adminsdk-servicekey.json
+/src/main/resources/rbjrg-app-firebase-adminsdk-servicekey_bak.json
